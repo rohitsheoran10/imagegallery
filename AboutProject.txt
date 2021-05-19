@@ -1,0 +1,51 @@
+Link to the website where the project is hosted
+===============================================
+
+
+
+
+
+About Project
+=============
+
+This project is about creating an image gallery below hover effect:
+
+images scale up when mouse hovers over them
+
+
+Properties newly launched in CSS3 have been used e.g. CSS transition and tranform.
+
+Flex-box is used to position the images.
+
+
+The image gallery webpage is fully responsive.
+
+
+Technology Used
+===============
+
+HTML5
+CSS3
+Sublime Text 3
+Git
+
+
+
+Challenges
+==========
+
+1. The main challenge is to position the images.
+
+
+
+
+Compatibility issues
+====================
+
+The code has been tested on Google Chrome Version 90.0.4430.85
+
+Because of the use of some properties from CSS3 , some effects might not be working for some browser versions.
+If in doubt use the css file "style_compatible.css" instead of "style.css".
+
+
+
